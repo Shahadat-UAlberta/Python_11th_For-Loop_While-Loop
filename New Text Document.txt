@@ -1,0 +1,2 @@
+1. For Loop
+2. While Loop
